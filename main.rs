@@ -1,1 +1,2 @@
 mod args;
+fn main() {
