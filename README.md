@@ -6,3 +6,5 @@ Command line flag parser in Rust.
 Clone this project and look at the source files:
 - `main.rs`
 - `args.rs`
+
+*Initialized by willlliammmsmithhh workspace automation.*
